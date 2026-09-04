@@ -7,7 +7,7 @@ about:
   head: 26750fe
   archived: true
   latestVersion: alpha-v0.2.9
-  collectedAt: 2026-09-04T19:29:50Z
+  collectedAt: 2026-09-04T21:03:22Z
 timeline:
   created: 2023-11-03
   lastCommit: 2025-04-18
@@ -80,5 +80,23 @@ total:
   openIssue: 0
   commit: 493
 ---
+path: /home/runner/.x-repo/github.com/fjebaker/nkt
+collectedAt: 2026-09-04T21:03:23Z
+loc:
+  Zig:
+    code: 12839
+    comments: 863
+    blanks: 1990
+    files: 53
+  Markdown:
+    code: 0
+    comments: 255
+    blanks: 97
+    files: 1
+total:
+  code: 12867
+  comments: 1128
+  blanks: 2097
+  files: 54
 ---
 
