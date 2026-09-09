@@ -7,7 +7,7 @@ about:
   latestVersion: "alpha-v0.2.9"
   latestRelease: "alpha-v0.2.9"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:36:19Z
+  collectedAt: 2026-09-09T19:15:27Z
 timeline:
   created: 2023-11-03
   lastCommit: 2025-04-18
@@ -83,7 +83,7 @@ total:
   commit: 493
 ---
 path: /home/runner/.x-repo/github.com/fjebaker/nkt
-collectedAt: 2026-09-09T05:36:20Z
+collectedAt: 2026-09-09T19:15:28Z
 loc:
   Zig:
     code: 12839
