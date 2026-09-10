@@ -1,0 +1,26 @@
+- repo: aur
+  srcname: nkt
+  binname: nkt
+  visiblename: nkt
+  version: 0.3.0
+  origversion: 0.3.0-1
+  status: outdated
+  summary: command line tool for helping you track and build your notes, todo lists, habits, and more
+  maintainers:
+    - shm@aur
+  licenses:
+    - GPL-3.0-or-later
+- repo: homebrew
+  srcname: nkt
+  visiblename: nkt
+  version: 0.3.1
+  origversion: null
+  status: newest
+  summary: TUI for fast and simple interacting with your BibLaTeX database
+- repo: homebrew
+  srcname: nkt
+  visiblename: nkt
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: TUI for fast and simple interacting with your BibLaTeX database
