@@ -47,12 +47,12 @@ Total: **12,839** lines of code across **54** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-01 | 1 | 0 | 0 | 0 | 0 | 24 |
+| 30d | 2026-09-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-02 | 1 | 0 | 0 | 0 | 0 | 24 |
 
 ## Release assets
 
@@ -63,6 +63,14 @@ Total: **12,839** lines of code across **54** files in the top 5 languages.
 | [nkt-x86_64-linux-musl.tar.gz](https://github.com/fjebaker/nkt/releases/download/alpha-v0.2.9/nkt-x86_64-linux-musl.tar.gz) | 2.0 MiB | `native/linux/x64/musl` |
 | [nkt-x86_64-macos-none.tar.gz](https://github.com/fjebaker/nkt/releases/download/alpha-v0.2.9/nkt-x86_64-macos-none.tar.gz) | 614.3 KiB | `native/darwin/x64` |
 
+## Distribution status
+
+Reported by **3** distros on [repology.org](https://repology.org/project/nkt). **1** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.3.1` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for nkt lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `nkt` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -72,4 +80,4 @@ Install metadata for nkt lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:22:46Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:28:35Z._
